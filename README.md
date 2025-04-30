@@ -23,11 +23,11 @@ A powerful yet simple full-stack application that leverages OpenAI's GPT-3.5 to 
 
 ## 📸 Preview
 
-![Application Screenshot](public/screenshot.png)
+![Application Screenshot](https://res.cloudinary.com/beyondhumanbias/image/upload/v1745974564/gpt-text-rewriter-screenshot_ktiaqj.jpg)
 
 ## 🚀 Live Demo
 
-> Coming soon! Deploy your own instance with one click via Vercel.
+> https://gpt-text-rewriter.vercel.app/
 
 ## 🛠️ Technology Stack
 
